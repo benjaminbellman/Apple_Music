@@ -1,6 +1,6 @@
 # Machine Learning to Predict Song Plays on Apple Music. 
 
-![](Images/Music.png)
+![](Images/Apple_Music_Project.png)
 
 Data Science Project which aims to predict song play count from my personal Apple Music Library. 
 
